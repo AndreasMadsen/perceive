@@ -1,0 +1,28 @@
+{
+  "name": "perceive",
+  "description": "Inspect values with peace by readability",
+  "version": "0.2.0",
+  "author": "Andreas Madsen <amwebdk@gmail.com>",
+  "main": "./isme.js",
+  "scripts": {
+    "test": "tap test/format/runner.js test/color/runner.js"
+  },
+  "repository" : {
+    "type": "git",
+    "url": "git://github.com/AndreasMadsen/perceive.git"
+  },
+  "keywords": [
+    "print",
+    "inspect",
+    "stringify"
+  ],
+  "dependencies": {
+    "type-component": "0.0.x"
+  },
+  "devDependencies": {
+    "tap": "0.4.x",
+    "js-yaml": "3.0.x",
+    "interpreted": "0.5.x"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+- ["no", "No", "NO"]
+- ["yes", "Yes", "YES"]
+- 
+    - "false"
+    - "False"
+    - "FALSE"
+- ["true", "True", "TRUE"]
