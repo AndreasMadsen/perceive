@@ -3,7 +3,7 @@
   "description": "Inspect values with peace by readability",
   "version": "0.2.0",
   "author": "Andreas Madsen <amwebdk@gmail.com>",
-  "main": "./isme.js",
+  "main": "./perceive.js",
   "scripts": {
     "test": "tap test/format/runner.js test/color/runner.js"
   },
