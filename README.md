@@ -63,9 +63,9 @@ colorized for a terminal makeing it even more readable.
 
 The actual output is technically YAML, this output format was chosen because:
 
-* It is much more readable than JSON, e.q. multiline strings particularly.
-* By outputting an actual language you will should be in doubt about what the
-output means on a data level. If you are its a bug, so please report it.
+* It is much more readable than JSON, e.q. multiline strings.
+* By outputting an actual language you shouldn't be in doubt about what the
+output means on a data level. If you are it's a bug, so please report it.
 
 ##License
 
